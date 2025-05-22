@@ -11,4 +11,4 @@ if [ -z "$AGNOS_VERSION" ]; then
 fi
 
 export STAGING_ROOT="/data/safe_staging"
-export FINGERPRINT="whatever_you_want"
+export FINGERPRINT="AUDI_A4_MK4"
